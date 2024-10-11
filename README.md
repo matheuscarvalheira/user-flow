@@ -17,18 +17,21 @@ Uma aplicação de registro de usuários desenvolvida com React. Utiliza Formik 
 - **Axios**: Cliente HTTP para fazer requisições à API.
 - **Jest** e **React Testing Library**: Ferramentas para testes automatizados.
 
-## Instalação
+## Instalação 🧑‍💻
 
 1. Clone o repositório:
+
    ```bash
-   git clone https://github.com/seu-usuario/user-registration-app.git
+   git clone https://github.com/matheuscarvalheira/user-flow.git
    cd user-registration-app
    ```
 2. Instale as dependências:
+
    ```bash
    npm install
    ```
 3. Inicie a aplicação:
+
    ```bash
    npm start
    ```
